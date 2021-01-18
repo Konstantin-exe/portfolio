@@ -21,7 +21,7 @@ const HomeIndex = () => {
             <h2>
               "To be or not to be...
               <br />
-              not to be" - Arnold Schwarzenegger
+              not to be" - <em>Arnold Schwarzenegger</em>
             </h2>
           </header>
           <p>
