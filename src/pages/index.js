@@ -53,8 +53,8 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h2>Get In Touch</h2>
-          <p>Would love to hear from you! Just slide into Dm's!</p>
+          <h2>Get In Touch!</h2>
+          <p>Would love to hear from you! Just slide into Dm's.</p>
           <div className="row">
             <div className="8u 12u$(small)">
               <form method="post" action="#">
